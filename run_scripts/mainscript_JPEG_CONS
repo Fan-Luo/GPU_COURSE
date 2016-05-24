@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps JPEG CONS > output_JPEG_CONS.txt

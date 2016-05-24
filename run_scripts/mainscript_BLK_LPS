@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BLK LPS > output_BLK_LPS.txt

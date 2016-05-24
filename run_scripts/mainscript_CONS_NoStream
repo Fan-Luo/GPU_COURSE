@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -sing0 CONS > output_CONS_NoStream.txt

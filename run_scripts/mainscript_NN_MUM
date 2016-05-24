@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps NN MUM > output_NN_MUM.txt

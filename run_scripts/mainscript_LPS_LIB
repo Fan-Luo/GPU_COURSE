@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LPS LIB > output_LPS_LIB.txt

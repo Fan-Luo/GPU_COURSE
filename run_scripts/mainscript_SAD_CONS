@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SAD CONS > output_SAD_CONS.txt

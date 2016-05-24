@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS GUPS > output_3DS_GUPS.txt

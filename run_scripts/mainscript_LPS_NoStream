@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -sing0 LPS > output_LPS_NoStream.txt

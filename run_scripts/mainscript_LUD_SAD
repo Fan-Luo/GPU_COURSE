@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD SAD > output_LUD_SAD.txt

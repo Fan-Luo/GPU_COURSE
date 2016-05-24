@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS MUM > output_3DS_MUM.txt

@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS CONS > output_3DS_CONS.txt

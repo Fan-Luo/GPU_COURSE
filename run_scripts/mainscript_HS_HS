@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps HS HS > output_HS_HS.txt

@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD MUM > output_LUD_MUM.txt

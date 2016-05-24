@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SAD RAY > output_SAD_RAY.txt

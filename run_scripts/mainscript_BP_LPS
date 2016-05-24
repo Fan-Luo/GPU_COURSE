@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BP LPS > output_BP_LPS.txt

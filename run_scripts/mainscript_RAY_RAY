@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps RAY RAY > output_RAY_RAY.txt

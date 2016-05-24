@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -sing0 BFS2 > output_BFS2_NoStream.txt

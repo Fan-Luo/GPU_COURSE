@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SAD GUPS > output_SAD_GUPS.txt

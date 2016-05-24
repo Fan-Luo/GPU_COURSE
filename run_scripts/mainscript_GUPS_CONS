@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps GUPS CONS > output_GUPS_CONS.txt

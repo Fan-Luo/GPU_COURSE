@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BLK LIB > output_BLK_LIB.txt

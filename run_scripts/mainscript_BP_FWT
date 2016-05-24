@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BP FWT > output_BP_FWT.txt

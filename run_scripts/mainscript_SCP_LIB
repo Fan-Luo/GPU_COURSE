@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SCP LIB > output_SCP_LIB.txt

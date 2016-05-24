@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -sing BFS2 > output_BFS2.txt

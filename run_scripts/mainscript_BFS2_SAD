@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BFS2 SAD > output_BFS2_SAD.txt

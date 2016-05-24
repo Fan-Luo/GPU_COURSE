@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps CONS LPS > output_CONS_LPS.txt

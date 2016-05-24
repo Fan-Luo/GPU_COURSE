@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SAD MUM > output_SAD_MUM.txt

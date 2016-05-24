@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps RAY GUPS > output_RAY_GUPS.txt

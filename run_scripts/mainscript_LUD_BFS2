@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD BFS2 > output_LUD_BFS2.txt

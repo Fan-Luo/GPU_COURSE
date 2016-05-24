@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BLK CONS > output_BLK_CONS.txt

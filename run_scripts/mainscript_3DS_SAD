@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS SAD > output_3DS_SAD.txt

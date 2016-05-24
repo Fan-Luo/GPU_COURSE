@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -sing CONS > output_CONS.txt

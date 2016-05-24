@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BLK SCP > output_BLK_SCP.txt

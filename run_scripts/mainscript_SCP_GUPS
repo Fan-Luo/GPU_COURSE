@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SCP GUPS > output_SCP_GUPS.txt

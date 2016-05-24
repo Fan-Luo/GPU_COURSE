@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS 3DS > output_3DS_3DS.txt

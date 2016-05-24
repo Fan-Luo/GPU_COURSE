@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BP JPEG > output_BP_JPEG.txt

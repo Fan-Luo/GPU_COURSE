@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD SCP > output_LUD_SCP.txt

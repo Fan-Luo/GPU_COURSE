@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps HS CONS > output_HS_CONS.txt

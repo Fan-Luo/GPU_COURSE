@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps 3DS JPEG > output_3DS_JPEG.txt

@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps GUPS FWT > output_GUPS_FWT.txt

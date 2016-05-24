@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps HS MUM > output_HS_MUM.txt

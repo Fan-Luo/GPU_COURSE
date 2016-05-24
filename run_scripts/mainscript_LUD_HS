@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD HS > output_LUD_HS.txt

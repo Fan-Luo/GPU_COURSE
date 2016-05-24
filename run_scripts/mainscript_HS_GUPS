@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps HS GUPS > output_HS_GUPS.txt

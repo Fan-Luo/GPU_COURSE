@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BLK RAY > output_BLK_RAY.txt

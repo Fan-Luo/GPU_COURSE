@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps RAY FWT > output_RAY_FWT.txt

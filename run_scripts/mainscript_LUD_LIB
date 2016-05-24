@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps LUD LIB > output_LUD_LIB.txt

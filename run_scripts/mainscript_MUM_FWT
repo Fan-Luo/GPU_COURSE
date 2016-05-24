@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps MUM FWT > output_MUM_FWT.txt

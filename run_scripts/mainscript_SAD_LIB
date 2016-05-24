@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps SAD LIB > output_SAD_LIB.txt

@@ -1,0 +1,1 @@
+./gpgpu_ptx_sim__mergedapps -apps BFS2 NN > output_BFS2_NN.txt
